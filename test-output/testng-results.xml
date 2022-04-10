@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22698" started-at="2022-04-10T10:13:26Z" finished-at="2022-04-10T10:13:48Z">
+  <suite name="Default suite" duration-ms="26491" started-at="2022-04-10T15:39:26Z" finished-at="2022-04-10T15:39:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22698" started-at="2022-04-10T10:13:26Z" finished-at="2022-04-10T10:13:48Z">
+    <test name="Default test" duration-ms="26491" started-at="2022-04-10T15:39:26Z" finished-at="2022-04-10T15:39:53Z">
       <class name="testpackage.MavenEdureka">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testpackage.MavenEdureka@66a3ffec]" name="beforeTest" is-config="true" duration-ms="28" started-at="2022-04-10T15:43:26Z" finished-at="2022-04-10T15:43:26Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testpackage.MavenEdureka@5cb9f472]" name="beforeTest" is-config="true" duration-ms="38" started-at="2022-04-10T21:09:26Z" finished-at="2022-04-10T21:09:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="test()[pri:0, instance:testpackage.MavenEdureka@66a3ffec]" name="test" duration-ms="19576" started-at="2022-04-10T15:43:26Z" finished-at="2022-04-10T15:43:45Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:testpackage.MavenEdureka@5cb9f472]" name="test" duration-ms="23230" started-at="2022-04-10T21:09:26Z" finished-at="2022-04-10T21:09:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testpackage.MavenEdureka@66a3ffec]" name="afterTest" is-config="true" duration-ms="3047" started-at="2022-04-10T15:43:45Z" finished-at="2022-04-10T15:43:48Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testpackage.MavenEdureka@5cb9f472]" name="afterTest" is-config="true" duration-ms="3150" started-at="2022-04-10T21:09:49Z" finished-at="2022-04-10T21:09:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
